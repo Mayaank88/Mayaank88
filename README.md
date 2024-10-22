@@ -2,6 +2,8 @@
 
 ● 📈 I'm interested in Web Dev and MERN stack.
 
+● 👣  I'm proficient in HTML, CSS and C-language.
+
 ● 🌱 I’m currently learning JavaScript.
 
 ● 👯 I’m looking to collaborate on projects related to Web Dev.
