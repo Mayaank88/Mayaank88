@@ -12,5 +12,5 @@
 
 ● 📫 How to reach me: Y'all can connect me on LinkedIn: https://www.linkedin.com/in/mayaank88/
 
-● 😄 Pronouns: He/Him
+● 🙂 Pronouns: He/Him
 
