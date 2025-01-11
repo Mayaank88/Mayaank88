@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on Bootstrap and Saas.<br>
+- 🔭 I’m currently working on a Saas startup.<br>
 - 👯 I’m looking to collaborate on projects related to web dev.<br>
 
 
