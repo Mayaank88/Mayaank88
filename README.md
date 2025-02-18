@@ -9,6 +9,7 @@
 
 
 - 📫 To reach me:  **iammayank006@gmail.com**
+- 🎮 discord username:- **https://discord.com/users/mayaaankk_88** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
