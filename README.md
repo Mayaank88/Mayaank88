@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mayank Kumar Singh</h1>
-<h3 align="center">A passionate Fullstack Developer from India.</h3>
+<h3 align="center">A Frontend Developer from India.</h3>
 
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on a Saas startup.<br>
+- 🔭 I’m currently working on Saas.<br>
 - 👯 I’m looking to collaborate on projects related to web dev.<br>
 
 
